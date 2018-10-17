@@ -6,6 +6,11 @@ The ball bounces off when hits the screen borders, the bricks and the paddle. Th
 the ball upward, keeping it in play.Your score increases when you destroy bricks. On the other hand, you lose one life each time the ball falls in the ground.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+SYSTEM REQUIREMENTS
+1. PYTHON 2.0 OR ABOVE
+2. PYGAME 1.9.4 
+
+----------------------------------------------------------
 TO PLAY THE GAME:
 ----------------------------------------------------------
 1. PRESS SPACE TO START THE GAME
